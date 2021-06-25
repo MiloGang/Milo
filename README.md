@@ -14,6 +14,7 @@ Another thing is Milo is completely open source and anyone can contribute to it
 # Discord Server
 To find out the latest news and updates on Milo's development you can join the <a href="https://discord.com/invite/5SKKAUUvFV">Milo Discord server</a>
 
+# Screenshots
 Here are some Early UI screenshots 
 
 ![image](https://user-images.githubusercontent.com/78900196/122369022-2dcc9a80-cfa1-11eb-8ff3-f67314640855.png)
