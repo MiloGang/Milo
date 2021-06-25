@@ -14,6 +14,13 @@ Another thing is Milo is completely open source and anyone can contribute to it
 # Discord Server
 To find out the latest news and updates on Milo's development you can join the <a href="https://discord.com/invite/5SKKAUUvFV">Milo Discord server</a>
 
+# Credits
+Drama_Binny - epic readme
+<br>
+Mattso - Lead Dev
+<br>
+Joji and J. Cole - epic tunes that helped pass the time :p
+
 # Screenshots
 Here are some Early UI screenshots 
 
