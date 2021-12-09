@@ -34,4 +34,3 @@ Here are some Early UI screenshots
 ![image](https://user-images.githubusercontent.com/78900196/122369074-39b85c80-cfa1-11eb-8d36-32e091a2d0d8.png)
 ![image](https://user-images.githubusercontent.com/78900196/122369115-42a92e00-cfa1-11eb-96a7-efabda4b96da.png)
 ![image](https://user-images.githubusercontent.com/78900196/122369148-4a68d280-cfa1-11eb-9556-10dc4acd1c78.png)
-https://t.co/gSRspbh12W?amp=1
