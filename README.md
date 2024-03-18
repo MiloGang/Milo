@@ -18,8 +18,6 @@ To find out the latest news and updates on Milo's development you can join the <
 Drama_Binny - epic readme
 <br>
 Mattso - Lead Dev
-<br>
-Joji and J. Cole - epic tunes that helped pass the time :p
 
 # Screenshots
 Here are some Early UI screenshots 
